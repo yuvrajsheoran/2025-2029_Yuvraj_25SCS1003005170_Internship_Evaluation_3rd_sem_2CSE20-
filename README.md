@@ -20,3 +20,6 @@
 
 1. **Network Traffic Analysis:** Built a packet sniffer & inspector using Python to analyze Ethernet and IPv4 frames, detecting insecure plain-text protocols.
 2. **Cryptography Implementation:** Implemented cryptographic routines for data encryption, decryption, and SHA-256 hash integrity checks.
+
+* **`Cyber_Security_Internship_Presentation.pptx`**: Evaluation presentation slides.
+* **`Cyber_Security_Internship_Report.pdf`**: Complete 1-month internship project report.
